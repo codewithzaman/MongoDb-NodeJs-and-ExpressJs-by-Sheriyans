@@ -1,0 +1,13 @@
+// Basics of Nodejs
+// Introduction to NodeJs.
+// Nodejs is not a programming language, technology, framework and library.
+// Nodejs is a js runtime environment 
+// Js sy backend nhi ban skta. ku k js k pass wo functionalties he nhi hy jis sy backend banta hy
+// ryan dahl nay socha k js sy backend banana chaeay.
+// google chrome ka v8 engine open source code hy jo k C++ mn likha howa hy .
+// Ryan Dahl wraps V8 engine C++ code with js code.
+// hum Js code likhen gy jo ke wrapper layer of js receive kray ge or wo code V8 engine k C++
+// module k sath ek server create kray ga.
+// Node and npm
+// npm is a package store or manager 
+//  npm init and node basic usage 
