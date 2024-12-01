@@ -18,8 +18,4 @@ app.get("/profile",function(req,res){
 )
 app.listen(3000)
 
-//MiddleWare
-// Middleware routes sy pehlay ata hy
-// jab b server request accept krta hy waha sy route k beech ponchnay tak agar aap uss request ko
-// beech mn roktay ho and kuch perform krtay ho to yeh element middleware kehlata hy
 
